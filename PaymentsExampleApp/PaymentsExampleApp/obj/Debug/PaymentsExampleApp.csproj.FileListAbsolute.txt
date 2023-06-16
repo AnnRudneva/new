@@ -1,0 +1,5 @@
+C:\Users\Ad\source\repos\PaymentsExampleApp\PaymentsExampleApp\obj\Debug\PaymentsExampleApp.csproj.AssemblyReference.cache
+C:\Users\Ad\source\repos\PaymentsExampleApp\PaymentsExampleApp\obj\Debug\PaymentsExampleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ad\source\repos\PaymentsExampleApp\PaymentsExampleApp\obj\Debug\App.g.cs
+C:\Users\Ad\source\repos\PaymentsExampleApp\PaymentsExampleApp\obj\Debug\PaymentsExampleApp_Content.g.cs
+C:\Users\Ad\source\repos\PaymentsExampleApp\PaymentsExampleApp\obj\Debug\PaymentsExampleApp_MarkupCompile.cache
